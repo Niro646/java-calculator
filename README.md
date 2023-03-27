@@ -4,5 +4,3 @@ As part of the "android" course, we were tasked to build a simple calculator in 
 <h2>🛠️ Languages I used:</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
-
-<h3>Screenshots:</h3>
